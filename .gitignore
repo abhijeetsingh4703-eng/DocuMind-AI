@@ -1,0 +1,18 @@
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.env
+temp_uploads/
+
+# Node / Frontend
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
