@@ -88,24 +88,5 @@ The frontend application will be available at `http://localhost:3000`.
 
 ---
 
-## 📖 Usage
 
-1. Open `http://localhost:3000` in your web browser.
-2. Ensure your backend server is running concurrently on port 8000.
-3. Click to **Upload a PDF** document. Wait for the success confirmation.
-4. Use the **Chat Interface** to ask questions specifically related to the contents of the uploaded PDF.
-
-## 📁 Project Structure
-
-```
-├── backend/
-│   ├── main.py            # FastAPI entry point & routes
-│   ├── rag.py             # LangChain RAG pipeline logic
-│   ├── requirements.txt   # Python dependencies
-│   └── temp_uploads/      # Temporary storage for PDF processing
-└── frontend/
-    ├── app/               # Next.js pages and components
-    ├── public/            # Static assets
-    ├── package.json       # Node dependencies
-    └── globals.css        # Global styling
-```
+<img width="1916" height="936" alt="Screenshot 2026-05-25 231417" src="https://github.com/user-attachments/assets/ff9482bd-28a7-4f3a-80b9-ff1fe7b3750f" />
